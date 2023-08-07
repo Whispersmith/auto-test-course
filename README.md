@@ -1,1 +1,1 @@
-# auto-test-course
+# Auto-test-course
